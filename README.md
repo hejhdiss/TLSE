@@ -70,7 +70,7 @@ The application domains for TLSE extend beyond traditional encrypted messaging t
 
 ## Status
 
-TLSE is currently in the **conceptual and prototype stage**. Public binaries or demo scripts may be released as part of a PoC or CTF challenge. The project is part of the **Amptemp Research Series** by Muhammed Shafin P, exploring ultra-secure offline encryption methods without traditional network-based cryptographic dependencies.
+TLSE is currently in the **conceptual and prototype stage**. Public binaries or demo scripts may be released as part of a PoC or CTF challenge. The project is part of the **Aetherokrypt Research Series** by Muhammed Shafin P, exploring ultra-secure offline encryption methods without traditional network-based cryptographic dependencies.
 
 Development efforts are focused on creating a robust reference implementation that demonstrates the viability of minute-based symmetric encryption with proprietary encoding in real-world scenarios. The prototype will include comprehensive testing of the synchronization mechanisms, performance benchmarking of the encryption/decryption processes, and security analysis of the enhanced key derivation function. Future research directions include investigating the optimal balance between sync window size and security, exploring integration with hardware security modules for enhanced secret phrase protection, and developing standardized protocols for TLSE adoption in various application domains while maintaining the proprietary encoding advantages.
 
